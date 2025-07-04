@@ -1,0 +1,4 @@
+pyppeteer
+pyperclip
+PyQt6
+qasync 
